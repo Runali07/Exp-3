@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Exp-3/static/css/main.b1b3a9b4.css",
+    "main.js": "/Exp-3/static/js/main.92b4b3be.js",
+    "index.html": "/Exp-3/index.html",
+    "main.b1b3a9b4.css.map": "/Exp-3/static/css/main.b1b3a9b4.css.map",
+    "main.92b4b3be.js.map": "/Exp-3/static/js/main.92b4b3be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1b3a9b4.css",
+    "static/js/main.92b4b3be.js"
+  ]
+}
