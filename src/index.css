@@ -1,0 +1,15 @@
+.app-container {
+  padding: 40px 20px;
+  text-align: center;
+}
+.heading {
+  font-size: 32px;
+  margin-bottom: 30px;
+  color: #333;
+}
+.card-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
